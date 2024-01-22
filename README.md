@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShrikantGavhale
 - 👀 I’m interested in Learning coding languages
 - 🌱 I’m currently learning computer engineering
-- 💞️ I’m looking to collaborate on mini projects
+- 💞️ I’m looking to content which will help me to grab placement offers
 - 📫 How to reach me through text messages
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
